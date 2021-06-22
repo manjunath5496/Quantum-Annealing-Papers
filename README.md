@@ -31,6 +31,44 @@ Progress Delivering to Them</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(15).pdf" style="text-decoration:none;">Graph Partitioning using Quantum Annealing on the D-Wave System</a></li>
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(16).pdf" style="text-decoration:none;">Perspectives of quantum annealing: Methods and implementations</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(17).pdf" style="text-decoration:none;">Practical Annealing-Based Quantum Computing</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(18).pdf" style="text-decoration:none;">Quantum Annealing for Clustering</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(19).pdf" style="text-decoration:none;">Quantum Computing:
+Lecture Notes</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(20).pdf" style="text-decoration:none;">Quantum Annealing with Markov Chain
+Monte Carlo Simulations and D-Wave Quantum Computers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(21).pdf" style="text-decoration:none;">Quantum Annealing Assisted Deep Learning for Lung Cancer Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(22).pdf" style="text-decoration:none;">Leveraging Quantum Annealing for Large MIMO Processing in Centralized Radio Access Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(23).pdf" style="text-decoration:none;">Quantum annealing with manufactured spins</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(24).pdf" style="text-decoration:none;">Approximating Archetypal Analysis
+Using Quantum Annealing</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(25).pdf" style="text-decoration:none;">A Quantum Annealing Approach for Boolean Satisfiability Problem</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(26).pdf" style="text-decoration:none;">Quantum annealing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(27).pdf" style="text-decoration:none;">Heterogeneous Quantum Computing for Satellite Constellation Optimization: Solving the Weighted K-Clique Problem</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Annealing-Papers/blob/master/q(28).pdf" style="text-decoration:none;">Applications of Quantum Annealing in Statistics</a></li>
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
                               
